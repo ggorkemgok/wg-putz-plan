@@ -1,0 +1,22 @@
+.btn {
+    margin-bottom: 5vh;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.alert {
+    margin-bottom: 5vh;
+}
+
+body {
+    background-color: #1D5B79;
+    background-size: cover;
+}
+
+.alert.alert-primary {
+    background-color: #9BE8D8;
+  }
